@@ -10,3 +10,4 @@ class Usuario{
 };
 
 // creación de objeto
+console.log("instancia de objeto");
